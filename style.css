@@ -1,0 +1,15 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.d{
+    background-color: violet;
+}
+.f{
+    background-color: violet;
+}
+.e,.t{
+    background-color: rebeccapurple;
+}
